@@ -26,35 +26,25 @@ Currently, I am deep-diving into **Deep Learning framework mechanics**, masterin
 
 ### 🛠️ Languages, Tools & Frameworks
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Programming & DB</strong></td>
-    <td align="center" width="25%"><strong>Data Engineering & EDA</strong></td>
-    <td align="center" width="25%"><strong>Deep Learning Core</strong></td>
-    <td align="center" width="25%"><strong>Environments</strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io🔥-orange?style=flat" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+**💻 Programming & Databases**  
+![Python](https://shields.io) 
+![SQL](https://shields.io)
+
+**📊 Data Engineering & EDA**  
+![Pandas](https://shields.io) 
+![NumPy](https://shields.io) 
+![Matplotlib](https://shields.io) 
+![Seaborn](https://shields.io)
+
+**🔥 Deep Learning Core**  
+![PyTorch](https://shields.io) 
+![Tensors & Autograd](https://shields.io)
+
+**🌐 Environments & Platforms**  
+![Google Colab](https://shields.io) 
+![Jupyter](https://shields.io) 
+![Kaggle](https://shields.io)
+
 
 ---
 
