@@ -1,13 +1,11 @@
-<h1 align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</h1>
+# <p align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</p>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  💻 <b>Aspiring AI / ML Engineer</b> | 📊 <b>Data Analyst transitioning to Deep Learning</b> | 🤖 <b>Building Intelligent Data Systems</b>
 </p>
 
 <p align="center">
-  📍 <em>Islamabad, Pakistan</em> &nbsp;|&nbsp; 🔥 <b>Focus:</b> Deep Learning & PyTorch
+  📍 <em>Islamabad, Pakistan</em> &nbsp;•&nbsp; 🔥 <b>Focus Core:</b> Deep Learning, Tensors & PyTorch Framework Mechanics
 </p>
 
 <p align="center">
