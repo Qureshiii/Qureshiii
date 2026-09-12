@@ -1,96 +1,112 @@
-# 👋 Hi, I'm Muhammad Muttahir Qureshi
+# <p align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</p>
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
-**Aspiring AI/ML Engineer | Data Analyst transitioning to AI Engineering**
-
-📍 Islamabad, Islamabad Capital Territory, Pakistan  
-📧 [mmuttahirqureshi@gmail.com](mailto:mmuttahirqureshi@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-muttahir-qureshi-13454a34a) | [Kaggle](https://www.kaggle.com/muttahir)
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Data Analyst** actively pivoting into **AI Engineering**, leveraging a strong programmatic background in data wrangling, pipeline optimization, and exploratory data analytics. I enjoy transforming messy real-world datasets into high-quality features to train, build, and deploy reliable machine learning systems.
-
-Currently progressing through the **Data Analysis Process** sessions while expanding my knowledge in Machine Learning and Neural Networks.
-
-- 🔭 I'm currently working on **real-world ML projects**
-- 🌱 I'm currently learning **Machine Learning algorithms & Neural Networks**
-- 👯 I'm looking to collaborate on **AI/ML open-source projects**
-- 💬 Ask me about **Python, Pandas, Data Analysis, and EDA**
-- 📫 How to reach me: **mmuttahirqureshi@gmail.com**
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io🔥?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+### 👨‍💻 About Me
 
-### Core Skills
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Analysis**: Data Gathering, Wrangling, Cleaning, EDA
-- **Machine Learning**: (Currently learning)
-- **Deep Learning**: Neural Networks (Currently learning)
-- **Databases**: SQL
-- **Visualization**: Matplotlib, Seaborn, EDA Visualizations
+I am a passionate **Data Analyst** actively transforming into an **AI / Deep Learning Engineer**. Backed by a solid foundation in data wrangling, pipeline optimization, and exploratory data analytics, I specialize in engineering clean, ML-ready features from raw, complex datasets. 
 
-### Learning Focus
-- Machine Learning Algorithms
-- Neural Networks & Deep Learning
-- Model Deployment & MLOps
+Currently, I am deep-diving into **Deep Learning framework mechanics**, mastering how tensors flow through neural network architectures to build robust predictive pipelines.
+
+- 🔭 **Current Focus:** Building hands-on implementations and tracking architectures inside PyTorch.
+- 🌱 **Learning Trajectory:** Advanced Optimization algorithms, custom loss functions, and Deep Neural Networks.
+- 👯 **Collaboration:** Open to collaborating on open-source Deep Learning and production-grade ML pipelines.
+- 💬 **Ask Me About:** Python programming, Pandas/NumPy pipelines, and complex Exploratory Data Analysis (EDA).
+- 📫 **Reach Me At:** [mmuttahirqureshi@gmail.com](mailto:mmuttahirqureshi@gmail.com)
 
 ---
 
-## 🚀 Recent Projects
+### 🛠️ Languages, Tools & Frameworks
 
-### 📊 FIFA World Cup Dataset Analysis
-- Performed insight-driven Exploratory Data Analysis
-- Extracted meaningful patterns and trends from historical data
-
-### 🚢 Titanic Dataset Analysis
-- Conducted ML-ready EDA
-- Prepared data for predictive modeling
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📊 Current Progress
-
-✅ **Completed:**
-- Python Foundations
-- NumPy & Pandas
-- Matplotlib & Seaborn
-- Data Gathering, Analysis, Wrangling & Cleaning
-- Exploratory Data Analysis (EDA)
-
-🔜 **Next Stop:**
-- Machine Learning Algorithms
-- More Real-World Projects
-- Neural Networks & Deep Learning
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><strong>Programming & DB</strong></td>
+    <td align="center" width="25%"><strong>Data Engineering & EDA</strong></td>
+    <td align="center" width="25%"><strong>Deep Learning Core</strong></td>
+    <td align="center" width="25%"><strong>Environments</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io🔥-orange?style=flat" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
+### 📊 Current Milestones & Progress
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muttahir-qureshi-13454a34a)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muttahir)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmuttahirqureshi@gmail.com)
+```text
+█▓▒░ COMPLETE ░▒▓█
+├── Python Computational Foundations
+├── High-Performance Arrays (NumPy) & Data Exploration (Pandas)
+├── Statistical Visualization (Matplotlib / Seaborn)
+└── Data Architecture: Gathering, Structural Wrangling, & Machine-Ready EDA
+
+█▓▒░ IN PROGRESS / DEEP LEARNING RADAR ░▒▓█
+├── 🔄 PyTorch Mathematical Foundations & Tensor Manipulations
+├── 🔄 Graph Gradients & Backpropagation Dynamics (Autograd Engine)
+└── 🔜 Neural Network Topology Architecture (torch.nn Stack)
+```
 
 ---
 
-## 📝 Latest Posts
+### 🚀 Highlighted Engineering Repositories
 
-Check out my latest updates and progress on [LinkedIn](https://www.linkedin.com/in/muhammad-muttahir-qureshi-13454a34a)!
-
----
-
-> *"Transforming messy data into meaningful insights — one dataset at a time."*
+*   **[PyTorch Learning Journey](https://github.com)**: Central tracker cataloging clean tensor architectures, custom execution pipelines, and neural structures.
+*   **[FIFA World Cup Dataset Analysis](https://github.com)**: Insight-driven analytics processing patterns and historical metrics.
+*   **Titanic Predictive Preprocessing**: Engineered pipelines transitioning messy analytical features into clean target indicators.
 
 ---
 
-⭐️ From [Muttahir](https://github.com/yourusername)
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
+
+---
+
+### 🌐 Corporate & Professional Matrix
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-muttahir-qureshi-13454a34a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/muttahir"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:mmuttahirqureshi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  Track my engineering build logs, theoretical frameworks, and live portfolio rollouts on 
+  <a href="https://www.linkedin.com/in/muhammad-muttahir-qureshi-13454a34a"><strong>LinkedIn</strong></a>.
+</p>
+
+---
+<p align="center">
+  <em>"Transforming highly chaotic unstructured datasets into clean, actionable, high-dimensional engineering matrices."</em>
+</p>
+<p align="center">⭐️ From <a href="https://github.com">Muttahir</a></p>
