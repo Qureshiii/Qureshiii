@@ -26,11 +26,35 @@ Currently, I am deep-diving into **Deep Learning framework mechanics**, masterin
 
 ### 🛠️ Languages, Tools & Frameworks
 
-*   **💻 Programming & Databases:** `Python` | `SQL` (Structured Query Language)
-*   **📊 Data Engineering & EDA:** `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
-*   **🔥 Deep Learning Core:** `PyTorch` | `Tensors Manipulation` | `Autograd Engine`
-*   **🌐 Environments & Platforms:** `Google Colab` | `Jupyter Notebooks` | `Kaggle`
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><strong>Programming & DB</strong></td>
+    <td align="center" width="25%"><strong>Data Engineering & EDA</strong></td>
+    <td align="center" width="25%"><strong>Deep Learning Core</strong></td>
+    <td align="center" width="25%"><strong>Environments</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io🔥-orange?style=flat" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
 
 ---
 
