@@ -26,24 +26,10 @@ Currently, I am deep-diving into **Deep Learning framework mechanics**, masterin
 
 ### 🛠️ Languages, Tools & Frameworks
 
-**💻 Programming & Databases**  
-![Python](https://shields.io) 
-![SQL](https://shields.io)
-
-**📊 Data Engineering & EDA**  
-![Pandas](https://shields.io) 
-![NumPy](https://shields.io) 
-![Matplotlib](https://shields.io) 
-![Seaborn](https://shields.io)
-
-**🔥 Deep Learning Core**  
-![PyTorch](https://shields.io) 
-![Tensors & Autograd](https://shields.io)
-
-**🌐 Environments & Platforms**  
-![Google Colab](https://shields.io) 
-![Jupyter](https://shields.io) 
-![Kaggle](https://shields.io)
+*   **💻 Programming & Databases:** `Python` | `SQL` (Structured Query Language)
+*   **📊 Data Engineering & EDA:** `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
+*   **🔥 Deep Learning Core:** `PyTorch` | `Tensors Manipulation` | `Autograd Engine`
+*   **🌐 Environments & Platforms:** `Google Colab` | `Jupyter Notebooks` | `Kaggle`
 
 
 ---
