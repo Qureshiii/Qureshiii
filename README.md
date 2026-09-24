@@ -1,17 +1,15 @@
+<h1 align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</h1>
+
 <p align="center">
-  <h1 align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</h1>
+  <strong>AI / ML Engineer in the making · Deep Learning · PyTorch</strong>
 </p>
 
 <p align="center">
-  💻 <strong>Aspiring AI / ML Engineer</strong> | 📊 <strong>Data Analyst transitioning to Deep Learning</strong> | 🤖 <strong>Building Intelligent Data Systems</strong>
+  📍 <em>Islamabad, Pakistan</em> · 🔥 <strong>Currently exploring:</strong> tensors, model architecture &amp; PyTorch internals
 </p>
 
 <p align="center">
-  📍 <em>Islamabad, Pakistan</em> &nbsp;•&nbsp; 🔥 <strong>Focus:</strong> Deep Learning, Tensors &amp; PyTorch Framework Mechanics
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Analyst+transitioning+to+Deep+Learning;Building+with+Python+and+PyTorch" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+with+Python+%26+PyTorch;Exploring+Deep+Learning+from+the+inside+out;Turning+ideas+into+intelligent+systems" alt="Animated introduction" />
 </p>
 
 ---
