@@ -1,4 +1,36 @@
-### 🛠️ Languages, Tools &amp; Frameworks
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Muhammad Muttahir Qureshi</h1>
+</p>
+
+<p align="center">
+  💻 <strong>Aspiring AI / ML Engineer</strong> | 📊 <strong>Data Analyst transitioning to Deep Learning</strong> | 🤖 <strong>Building Intelligent Data Systems</strong>
+</p>
+
+<p align="center">
+  📍 <em>Islamabad, Pakistan</em> &nbsp;•&nbsp; 🔥 <strong>Focus:</strong> Deep Learning, Tensors &amp; PyTorch Framework Mechanics
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Analyst+transitioning+to+Deep+Learning;Building+with+Python+and+PyTorch" alt="Animated introduction" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Data Analyst** actively transforming into an **AI / Deep Learning Engineer**. Backed by a solid foundation in data wrangling, pipeline optimization, and exploratory data analytics, I specialize in engineering clean, ML-ready features from raw, complex datasets.
+
+Currently, I am deep-diving into **Deep Learning framework mechanics**, mastering how tensors flow through neural network architectures to build robust predictive pipelines.
+
+- 🔭 **Current Focus:** Building hands-on implementations and tracking architectures inside PyTorch.
+- 🌱 **Learning Trajectory:** Advanced optimization algorithms, custom loss functions, and deep neural networks.
+- 👯 **Collaboration:** Open to collaborating on open-source deep learning and production-grade ML pipelines.
+- 💬 **Ask Me About:** Python programming, Pandas/NumPy pipelines, and exploratory data analysis (EDA).
+- 📫 **Reach Me At:** [mmuttahirqureshi@gmail.com](mailto:mmuttahirqureshi@gmail.com)
+
+------
+
+  ### 🛠️ Languages, Tools &amp; Frameworks
 
 <table align="center" width="100%">
   <tr>
@@ -31,7 +63,6 @@
 </table>
 
 ---
-
 ### 📊 Current Milestones &amp; Progress
 
 ```text
@@ -56,7 +87,6 @@
 - **Titanic Predictive Preprocessing**: Engineered pipelines transitioning messy analytical features into clean target indicators.
 
 ---
-
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -65,7 +95,6 @@
 </p>
 
 ---
-
 ### 🌐 Corporate &amp; Professional Matrix
 
 <p align="center">
@@ -80,7 +109,6 @@
 </p>
 
 ---
-
 <p align="center">
   <em>“Transforming highly chaotic unstructured datasets into clean, actionable, high-dimensional engineering matrices.”</em>
 </p>
