@@ -80,9 +80,9 @@ Currently, I am deep-diving into **Deep Learning framework mechanics**, masterin
 
 ### 🚀 Highlighted Engineering Repositories
 
-- **[PyTorch Learning Journey](https://github.com)**: Central tracker cataloging clean tensor architectures, custom execution pipelines, and neural structures.
-- **[FIFA World Cup Dataset Analysis](https://github.com)**: Insight-driven analytics processing patterns and historical metrics.
-- **Titanic Predictive Preprocessing**: Engineered pipelines transitioning messy analytical features into clean target indicators.
+- **[PyTorch Learning Journey](https://github.com/Qureshiii/PyTorch-Learning-Journey):** PyTorch, tensors, and neural network practice.
+- **[FIFA World Cup EDA](https://github.com/Qureshiii/fifa-world-cup-eda):** Exploratory analysis of World Cup matches and team performance.
+- **[Customer Churn Prediction](https://github.com/Qureshiii/Customer-Churn-Prediction-TensorFlow):** Customer churn prediction with TensorFlow and Keras.
 
 ---
 ### 📈 GitHub Analytics
