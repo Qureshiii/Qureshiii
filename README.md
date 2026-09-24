@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io🔥?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Analyst+transitioning+to+Deep+Learning;Building+with+Python+and+PyTorch" alt="Animated introduction" />
 </p>
 
 ---
