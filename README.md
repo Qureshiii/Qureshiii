@@ -90,8 +90,7 @@ Currently, I am deep-diving into **Deep Learning framework mechanics**, masterin
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qureshiii&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub stats for Qureshiii" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qureshiii&layout=compact&theme=github_dark&hide_border=true" width="48%" alt="Most used languages" />
+  <a href="https://github.com/Qureshiii?tab=overview">View my GitHub activity and contributions</a>
 </p>
 
 ---
